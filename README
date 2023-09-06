@@ -1,1 +1,5 @@
-//this is to explain it
+//this is to explain the project
+
+//this project is the entry project to the neural network field
+// here i implement a Convolutional neural network using pytorch to take in the data
+//and train on and test on part of it
